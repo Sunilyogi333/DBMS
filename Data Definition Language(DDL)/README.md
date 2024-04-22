@@ -1,4 +1,4 @@
-# Data Definition Language(DQL) Commands
+# Data Definition Language(DDL) Commands
 
 ## 1. DDL Command
 - Is used to communicate with database.
